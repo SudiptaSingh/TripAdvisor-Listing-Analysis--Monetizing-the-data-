@@ -1,4 +1,4 @@
-# TripAdvisor-Listing-Analysis--Monetizing-the-data-
+# TripAdvisor-Listing-Analysis--Monetizing-the-data
 Introduction and Problem Statement 
 The hospitality industry has been affected immensely due to Covid 19. Considering this, any hotel chain that would like to open a branch would prefer to do a data driven research before finalizing on the location and features of the hotels, and what kind of customers the hotel should focus on to maximize its performance. This analysis could also be used by underperforming hotels. The hotel rank has been used as a proxy for the hotel’s performance in the analysis. 
 
